@@ -1,2 +1,2 @@
-# Web-Projects
-Very simple HTML, CSS, and PHP files.
+# Web Projects
+Simple HTML, CSS, and PHP files.
